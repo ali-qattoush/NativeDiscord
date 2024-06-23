@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188205775767",
+    "project_id": "azure-social-app",
+    "storage_bucket": "azure-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188205775767:android:7df2f96ebdf7cd589d22d2",
+        "android_client_info": {
+          "package_name": "com.azuresocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-PtXU_9xzxPFZ5x4EkNn0E-6DXAfOyys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
